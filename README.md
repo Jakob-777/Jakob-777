@@ -11,7 +11,6 @@ I've been learning to code for 1 year, after switching careers. I started with H
 <br/>
 
 *   🌍  I'm based in Germany
-*   ✉️  You can contact me at [herlein.j@outlook.de](mailto:herlein.j@outlook.de)
 
 <br/>
 
