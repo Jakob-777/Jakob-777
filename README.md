@@ -1,9 +1,8 @@
-My name is Jakob Herlein
-==============================
+Front- and Beckend Developing
+---------------------------------
 
 ![laptop](https://github.com/user-attachments/assets/426d835e-4ebb-413b-86f8-e1f73e109767)
 
-Web Developer and Design Engineer
 ---------------------------------
 
 I've been learning to code for 1 year, after switching careers. I started with HTML, CSS and JavaScript, but have really found a passion for backend development.
