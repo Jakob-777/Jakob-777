@@ -1,7 +1,7 @@
 Hi 👋 My name is Jakob Herlein
 ==============================
 
-![laptop](https://github.com/user-attachments/assets/ecdb778c-9ad8-4a73-807b-e734fa6705e2)
+![laptop on desk](https://github.com/user-attachments/assets/ddaf638f-8223-40e9-940c-68ccd4da367c)
 
 Web Developer and Design Engineer
 ---------------------------------
